@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Задание 3. Программирование на Python
